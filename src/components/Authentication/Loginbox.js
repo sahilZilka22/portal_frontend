@@ -128,8 +128,8 @@ const Loginbox = () => {
              width="100%"
              style={{marginTop : 15}}
              onClick={()=>{
-            setmail("guest@gmail.com")
-             setpassword("123456")
+            setmail("guestnew@gmail.com")
+             setpassword("123")
          }}>
             Get Guest credentials
         </Button>
